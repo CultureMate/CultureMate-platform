@@ -48,7 +48,7 @@
 | 저장소 | 역할 | 기준 버전 |
 |---|---|---|
 | **[CultureMate-platform](https://github.com/CultureMate/CultureMate-platform)** | 통합 실행·아키텍처·프로젝트 문서 | `main` |
-| [CultureMate-frontend](https://github.com/CultureMate/CultureMate-frontend) | React SPA와 사용자 화면 | `87595fa` |
+| [CultureMate-frontend](https://github.com/CultureMate/CultureMate-frontend) | React SPA와 사용자 화면 · [Live Demo](https://culturemate.github.io/CultureMate-frontend/#/) | `4750251` |
 | [CultureMate-backend](https://github.com/CultureMate/CultureMate-backend) | REST API·외부 API 연동·데이터 저장 | `6b77b11` |
 
 이 저장소는 검증된 프론트엔드와 백엔드 버전을 Git submodule로 고정합니다. 한 번의 clone으로 전체 구성을 받고 Docker Compose로 함께 실행할 수 있습니다.
